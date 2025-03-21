@@ -1,0 +1,52 @@
+<Map titre="test3" nb_coup="1" nb_colonnes="7" nb_lignes="6" couleurs="['green', 'red']">
+  <Grille>
+    <Cellule_Vide ligne="0" colonne="0" />
+    <Cellule_Vide ligne="0" colonne="1" />
+    <Cellule_Vide ligne="0" colonne="2" />
+    <Cellule_Vide ligne="0" colonne="3" />
+    <Cellule_Vide ligne="0" colonne="4" />
+    <Cellule_Vide ligne="0" colonne="5" />
+    <Cellule_Vide ligne="0" colonne="6" />
+    <Cellule_Vide ligne="1" colonne="0" />
+    <Cellule_Vide ligne="1" colonne="1" />
+    <Cellule_Vide ligne="1" colonne="2" />
+    <Cellule_Vide ligne="1" colonne="3" />
+    <Cellule_Vide ligne="1" colonne="4" />
+    <Cellule_Vide ligne="1" colonne="5" />
+    <Cellule_Vide ligne="1" colonne="6" />
+    <Cellule_Vide ligne="2" colonne="0" />
+    <Cellule_Vide ligne="2" colonne="1" />
+    <Cellule_Vide ligne="2" colonne="2" />
+    <Cellule_Vide ligne="2" colonne="3" />
+    <Cellule_Vide ligne="2" colonne="4" />
+    <Cellule_Vide ligne="2" colonne="5" />
+    <Cellule_Vide ligne="2" colonne="6" />
+    <Cellule_Vide ligne="3" colonne="0" />
+    <Cellule_Vide ligne="3" colonne="1" />
+    <Cellule_Vide ligne="3" colonne="2" />
+    <Cellule_Vide ligne="3" colonne="3" />
+    <Cellule_Vide ligne="3" colonne="4" />
+    <Cellule_Vide ligne="3" colonne="5" />
+    <Cellule_Vide ligne="3" colonne="6" />
+    <Cellule_Vide ligne="4" colonne="0" />
+    <Cellule_Vide ligne="4" colonne="1" />
+    <Cellule_Vide ligne="4" colonne="2" />
+    <Cellule_Vide ligne="4" colonne="3" />
+    <Cellule_Vide ligne="4" colonne="4" />
+    <Cellule_Vide ligne="4" colonne="5" />
+    <Cellule_Vide ligne="4" colonne="6" />
+    <Cellule_Vide ligne="5" colonne="0" />
+    <Cellule_Vide ligne="5" colonne="1" />
+    <Cellule_Vide ligne="5" colonne="2" />
+    <Cellule_Vide ligne="5" colonne="3" />
+    <Cellule_Vide ligne="5" colonne="4" />
+    <Cellule_Vide ligne="5" colonne="5" />
+    <Cellule_Vide ligne="5" colonne="6" />
+  </Grille>
+  <Objectifs>
+    <Objectif Nombre="1 " Cible=" pink" />
+    <Objectif Nombre="1 " Cible=" Bonus" />
+    <Objectif Nombre="1 " Cible=" Etoiles" />
+    <Objectif Nombre="1 " Cible=" green" />
+  </Objectifs>
+</Map>

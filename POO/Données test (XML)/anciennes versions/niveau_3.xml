@@ -1,0 +1,47 @@
+<Map titre="Niveau_3 - Introduction des cellules vides" nb_colonnes="7" nb_lignes="6" couleurs="['vert', 'rouge', 'jaune', 'bleu', 'rose']">
+  <Grille>
+    <Cellule ligne="0" colonne="0" contenu="jaune" orientation="Bas" flux="Puits" />
+    <Cellule ligne="0" colonne="1" contenu="vert" orientation="Bas" flux="Puits" />
+    <Cellule ligne="0" colonne="2" contenu="vert" orientation="Bas" flux="Puits" />
+    <Cellule ligne="0" colonne="3" contenu="vert" orientation="Bas" flux="Puits" />
+    <Cellule ligne="0" colonne="4" contenu="bleu" orientation="Bas" flux="Puits" />
+    <Cellule ligne="0" colonne="5" contenu="rose" orientation="Bas" flux="Puits" />
+    <Cellule ligne="0" colonne="6" contenu="jaune" orientation="Bas" flux="Puits" />
+    <Cellule ligne="1" colonne="0" contenu="bleu" orientation="Bas" flux="Source" />
+    <Cellule ligne="1" colonne="1" contenu="rouge" orientation="Bas" flux="" />
+    <Cellule ligne="1" colonne="2" contenu="bleu" orientation="Bas" flux="" />
+    <Cellule ligne="1" colonne="3" contenu="vert" orientation="Bas" flux="" />
+    <Cellule ligne="1" colonne="4" contenu="jaune" orientation="Bas" flux="" />
+    <Cellule ligne="1" colonne="5" contenu="jaune" orientation="Bas" flux="" />
+    <Cellule_Gelee ligne="1" colonne="6" niveau_gel="1" contenu="vert" orientation="Bas" flux="Source" />
+    <Cellule_Vide ligne="2" colonne="0" />
+    <Cellule ligne="2" colonne="1" contenu="rouge" orientation="Bas" flux="Source" />
+    <Cellule ligne="2" colonne="2" contenu="jaune" orientation="Bas" flux="" />
+    <Cellule ligne="2" colonne="3" contenu="vert" orientation="Bas" flux="" />
+    <Cellule ligne="2" colonne="4" contenu="vert" orientation="Bas" flux="" />
+    <Cellule ligne="2" colonne="5" contenu="vert" orientation="Bas" flux="Source" />
+    <Cellule_Vide ligne="2" colonne="6" />
+    <Cellule_Vide ligne="3" colonne="0" />
+    <Cellule_Vide ligne="3" colonne="1" />
+    <Cellule ligne="3" colonne="2" contenu="rose" orientation="Bas" flux="" />
+    <Cellule_Gelee ligne="3" colonne="3" niveau_gel="3" contenu="vert" orientation="Bas" flux="" />
+    <Cellule ligne="3" colonne="4" contenu="rose" orientation="Bas" flux="" />
+    <Cellule_Vide ligne="3" colonne="5" />
+    <Cellule_Vide ligne="3" colonne="6" />
+    <Cellule_Vide ligne="4" colonne="0" />
+    <Cellule ligne="4" colonne="1" contenu="jaune" orientation="Bas" flux="Puits" />
+    <Cellule ligne="4" colonne="2" contenu="rouge" orientation="Bas" flux="" />
+    <Cellule ligne="4" colonne="3" contenu="jaune" orientation="Bas" flux="" />
+    <Cellule_Gelee ligne="4" colonne="4" niveau_gel="2" contenu="jaune" orientation="Bas" flux="" />
+    <Cellule ligne="4" colonne="5" contenu="rouge" orientation="Bas" flux="Puits" />
+    <Cellule_Vide ligne="4" colonne="6" />
+    <Cellule ligne="5" colonne="0" contenu="bleu" orientation="Bas" flux="Puits" />
+    <Cellule ligne="5" colonne="1" contenu="vert" orientation="Bas" flux="Source" />
+    <Cellule ligne="5" colonne="2" contenu="bleu" orientation="Bas" flux="Source" />
+    <Cellule ligne="5" colonne="3" contenu="rose" orientation="Bas" flux="Source" />
+    <Cellule ligne="5" colonne="4" contenu="rose" orientation="Bas" flux="Source" />
+    <Cellule ligne="5" colonne="5" contenu="rose" orientation="Bas" flux="Source" />
+    <Cellule ligne="5" colonne="6" contenu="bleu" orientation="Bas" flux="Puits" />
+  </Grille>
+  <Objectifs />
+</Map>

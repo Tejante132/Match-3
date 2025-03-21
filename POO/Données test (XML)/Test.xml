@@ -1,0 +1,49 @@
+<Map titre="Map Test" nb_coup="10" nb_colonnes="7" nb_lignes="6" couleurs="['green', 'red']">
+  <Grille>
+    <Cellule ligne="0" colonne="0" contenu="red" flux="Puits" />
+    <Cellule ligne="0" colonne="1" contenu="green" flux="Puits" />
+    <Cellule_Vide ligne="0" colonne="2" />
+    <Cellule_Vide ligne="0" colonne="3" />
+    <Cellule_Vide ligne="0" colonne="4" />
+    <Cellule_Vide ligne="0" colonne="5" />
+    <Cellule_Vide ligne="0" colonne="6" />
+    <Cellule ligne="1" colonne="0" contenu="green" orientation="Bas" />
+    <Cellule ligne="1" colonne="1" contenu="green" orientation="Bas" />
+    <Cellule_Vide ligne="1" colonne="2" />
+    <Cellule_Vide ligne="1" colonne="3" />
+    <Cellule_Vide ligne="1" colonne="4" />
+    <Cellule_Vide ligne="1" colonne="5" />
+    <Cellule_Vide ligne="1" colonne="6" />
+    <Cellule ligne="2" colonne="0" contenu="green" orientation="Bas" flux="Source" />
+    <Cellule ligne="2" colonne="1" contenu="red" orientation="Bas" flux="Source" />
+    <Cellule_Vide ligne="2" colonne="2" />
+    <Cellule_Vide ligne="2" colonne="3" />
+    <Cellule_Vide ligne="2" colonne="4" />
+    <Cellule_Vide ligne="2" colonne="5" />
+    <Cellule_Vide ligne="2" colonne="6" />
+    <Cellule_Vide ligne="3" colonne="0" />
+    <Cellule_Vide ligne="3" colonne="1" />
+    <Cellule_Vide ligne="3" colonne="2" />
+    <Cellule_Vide ligne="3" colonne="3" />
+    <Cellule_Vide ligne="3" colonne="4" />
+    <Cellule_Vide ligne="3" colonne="5" />
+    <Cellule_Vide ligne="3" colonne="6" />
+    <Cellule_Vide ligne="4" colonne="0" />
+    <Cellule_Vide ligne="4" colonne="1" />
+    <Cellule_Vide ligne="4" colonne="2" />
+    <Cellule_Vide ligne="4" colonne="3" />
+    <Cellule_Vide ligne="4" colonne="4" />
+    <Cellule_Vide ligne="4" colonne="5" />
+    <Cellule_Vide ligne="4" colonne="6" />
+    <Cellule_Vide ligne="5" colonne="0" />
+    <Cellule_Vide ligne="5" colonne="1" />
+    <Cellule_Vide ligne="5" colonne="2" />
+    <Cellule_Vide ligne="5" colonne="3" />
+    <Cellule_Vide ligne="5" colonne="4" />
+    <Cellule_Vide ligne="5" colonne="5" />
+    <Cellule_Vide ligne="5" colonne="6" />
+  </Grille>
+  <Objectifs>
+    <Objectif Nombre="1 " Cible=" green" />
+  </Objectifs>
+</Map>
